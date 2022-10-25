@@ -1,0 +1,100 @@
+.logo{
+    float: left;
+    height: 100px;
+    width: 150px;
+}
+
+.header1{
+    background-color: black;
+    height: 100px;
+}
+
+.lista1 li{
+    color: white;
+    float: right;
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 40px;
+}
+    
+input{
+    margin-left: 20%;
+    margin-top: 30px;
+    width: 700px;
+    height: 30px;
+}
+
+.lista2 li{
+    display: inline;
+    padding-left: 30px;
+    margin-left: 120px;
+}
+
+h2{
+    float: left;
+    margin-left: 400px;
+}
+
+.h32{
+    float: right;
+    margin-right: 400px;
+    padding-top: 5px;
+
+}
+
+.h31{
+    float: right;
+    margin-right: 50px;
+    padding-top: 5px;
+}
+
+.black_friday{
+    height: 500px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.produtos{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.camisa_preta{
+    padding-left: 40px;
+}
+
+.camisa_lilas{
+    padding-left: 40px;
+}
+
+.camisa_rosa{
+    padding-left: 40px;
+}
+
+.camisa_preta_fem{
+    padding-left: 40px;
+}
+
+.camisa_vermelha{
+    padding-left: 40px;
+}
+
+.camisa_chiclete{
+    padding-left: 40px;
+}
+
+.link1{
+    text-decoration: none;
+    color: white;
+}
+
+.link2{
+    text-decoration: none;
+    color: black;
+}
+
+.link3{
+    text-decoration: none;
+    color: black;
+}
